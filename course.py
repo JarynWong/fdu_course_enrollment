@@ -167,8 +167,8 @@ _WEU=tGIm0thN5Gwpm89Y2dCzqVJ*hhIq62s2mzYJa09bPkiL_JQJToZR3ISTV4ytif4O; route=2df
     ]
 
     # 定义你希望执行任务的开始时间和结束，例如12:57，最好在抢课时间点的前几分钟，但别提前太早，防止学校服务器压力过大
-    start_time = datetime.datetime.now().replace(hour=12, minute=55, second=30, microsecond=0)
-    end_time = datetime.datetime.now().replace(hour=13, minute=15, second=30, microsecond=0)
+    start_time = datetime.datetime.now().replace(hour=12, minute=57, second=30, microsecond=0)
+    end_time = datetime.datetime.now().replace(hour=13, minute=10, second=30, microsecond=0)
 
     # 请求的域名会变动，如果发现启动脚本时报cookie过期，那么可以尝试换域名（改这个参数的前提是cookie确实是新获取的，并未真正过期）
     target = "yjsxk.fudan.edu.cn"
