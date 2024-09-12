@@ -27,15 +27,15 @@
 
 ### 实战结果
 英语写作课(作者研二，只能在新生选课的后两周进行英语选课，但还是抢到了考核较为轻松的写作课)
-![img_4.png](img_4.png)
+![img_4.png](img_4.png)  
 乒乓球课  
 ![img_2.png](img_2.png)  
 羽毛球课  
-![img_3.png](img_3.png)
+![img_3.png](img_3.png)  
 英语写作课  
-![img_5.png](img_5.png)
+![img_5.png](img_5.png)  
 乒乓球课  
-![img_7.png](img_7.png)
+![img_7.png](img_7.png)  
 
 ### 免责声明
 - 本程序功能仅为辅助抢课，存在抢课失败几率。
