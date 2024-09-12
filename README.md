@@ -32,9 +32,9 @@
 ![img_2.png](img_2.png)  
 羽毛球课  
 ![img_3.png](img_3.png)
-英语写作课
+英语写作课  
 ![img_5.png](img_5.png)
-乒乓球课
+乒乓球课  
 ![img_7.png](img_7.png)
 
 ### 免责声明
